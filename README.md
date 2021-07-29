@@ -1,5 +1,9 @@
 # Tracking Raw Results
 
+> comparison.xlsx: record the sota tracker results on all benchmarks.
+>
+> the excel version from https://github.com/JudasDie/Comparison/
+
 ## OTB100
 
 - [x] CFNet 
