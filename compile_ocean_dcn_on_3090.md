@@ -9,10 +9,10 @@
 
 ## 2.修改 / Modification
 
-找到`lib/models/dcn/src/deform_conv.py`文件, 将所有的`AT_CHECK`替换为`TORCH_CHECK`, 同时将所有的`.view`操作替换为`.reshape`
+找到`lib/models/dcn/src/deform_conv.py`文件, 将所有的`AT_CHECK`替换为`AT_ASSERT`, 同时将所有的`.view`操作替换为`.contiguous().view`
 操作, 之后重新执行编译`python setup.py develop`.
 
-Found file `lib/models/dcn/src/deform_conv.py`, replace all `AT_CHECK` and `.view` operations with `TORCH_CHECK` and `.reshape`, then recompile `python setup.py develop`.
+Found file `lib/models/dcn/src/deform_conv.py`, replace all `AT_CHECK` and `.view` operations with `AT_ASSERT` and `.contiguous().view`, then recompile `python setup.py develop`.
 
 ## 3.可能碰到的问题及解决 / References
 
