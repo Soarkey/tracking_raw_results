@@ -12,7 +12,6 @@ The result files of single object tracking (SOT).
 - [开启属性值绘制雷达图 & 修复`VOT2019`数据集在测试时遮挡/关照等属性值出现`NaN`的问题](fix_eval_vot2019_attrs_nan.md)
 
 ## OTB100
-
 - [x] CFNet 
 - [x] DaSiamRPN
 - [x] MDNet
@@ -24,22 +23,19 @@ The result files of single object tracking (SOT).
 - [x] Ocean Online
 
 ## VOT2018
-
 - [x] Ocean
 - [x] Ocean Online
 
 ## VOT2019
-
 - [x] Ocean
 - [x] Ocean Online
 
 ## LASOT
-
 - [x] Ocean
 - [x] Ocean Online
+- [x] SiamBAN
 
 ## GOT10K
-
 - [x] Ocean
 - [x] Ocean Online
 
