@@ -15,6 +15,7 @@ The result files of single object tracking (SOT).
 - [x] CFNet 
 - [x] DaSiamRPN
 - [x] MDNet
+- [x] ATOM
 - [x] SiamBAN
 - [x] SiamFC
 - [x] SiamRPN
@@ -31,9 +32,11 @@ The result files of single object tracking (SOT).
 - [x] Ocean Online
 
 ## LASOT
+- [x] ATOM
 - [x] Ocean
 - [x] Ocean Online
 - [x] SiamBAN
+- [x] SiamRPN++
 
 ## GOT10K
 - [x] Ocean
