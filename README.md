@@ -17,6 +17,8 @@ The result files of single object tracking (SOT).
 - C-RPN results: https://www3.cs.stonybrook.edu/~hling/code/CRPN/crpn.htm
 
 ## Raw Results
+> 🎉 Download latest zip file link: https://github.com/Soarkey/tracking_raw_results/releases/tag/v2.0
+
 ### OTB100
 - [x] CFNet 
 - [x] DaSiamRPN
