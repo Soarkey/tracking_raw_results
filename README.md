@@ -47,7 +47,7 @@ The result files of single object tracking (SOT).
 - [x] Ocean
 - [x] Ocean Online
 
-## GOT10K
+### GOT10K
 - [x] Ocean
 - [x] Ocean Online
 
