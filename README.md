@@ -7,10 +7,6 @@ The result files of single object tracking (SOT).
 > 
 > the excel version from https://github.com/JudasDie/Comparison/
 
-## Blog
-- [3090编译Ocean可变形卷积 / Compile Ocean DCN on 3090](compile_ocean_dcn_on_3090.md)
-- [开启属性值绘制雷达图 & 修复`VOT2019`数据集在测试时遮挡/关照等属性值出现`NaN`的问题](fix_eval_vot2019_attrs_nan.md)
-
 ## Link
 - LASOT benchmark results: https://vision.cs.stonybrook.edu/~lasot/results.html
 - pytacking results: https://drive.google.com/open?id=1Sacgh5TZVjfpanmwCFvKkpnOA7UHZCY0
@@ -65,3 +61,7 @@ The result files of single object tracking (SOT).
 - [x] TrDiMP
 - [x] TrSiam
 - [x] UPDT
+
+## Blog
+- [3090编译Ocean可变形卷积 / Compile Ocean DCN on 3090](compile_ocean_dcn_on_3090.md)
+- [开启属性值绘制雷达图 & 修复`VOT2019`数据集在测试时遮挡/关照等属性值出现`NaN`的问题](fix_eval_vot2019_attrs_nan.md)
